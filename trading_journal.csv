@@ -1,0 +1,6 @@
+date,trading session,quantity,risk:reward,PnL,percentage change,comments
+2024-03-20,Morning,100,1:2,$500,2.5,Good momentum trade
+2024-03-20,Afternoon,50,1:1,-$200,-1.0,Stopped out early
+2024-03-21,Morning,75,1:3,$750,3.2,Perfect setup and execution
+2024-03-21,Evening,25,1:1,-$150,-0.8,Late day chop
+2024-03-22,Morning,200,1:2,$1200,4.5,Strong trend following trade 
